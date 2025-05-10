@@ -4,3 +4,4 @@ for i in range(1, a+1):
         print("*", end="")
     print()
 print("asma")  
+print("Maqsood")
