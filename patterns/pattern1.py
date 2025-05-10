@@ -6,3 +6,4 @@ for i in range(1, a+1):
 print("asma")  
 print("Maqsood")
 print("sameera")
+print("hameeda")
