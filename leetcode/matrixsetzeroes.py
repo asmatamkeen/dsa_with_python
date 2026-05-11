@@ -17,4 +17,3 @@ def setZeroes(matrix):
 
 matrix=[[1,1,0,1],[1,1,1,1],[1,2,2,2]]
 print(setZeroes(matrix))
-
