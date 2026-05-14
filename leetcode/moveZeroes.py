@@ -1,0 +1,9 @@
+def moveZero(nums):    
+    j=0
+    for i in range (0,len(nums)):
+        if nums[i] != 0:
+            nums[j], nums[i] =nums[i],nums[j]
+            j +=1
+    return nums
+
+print(moveZero([0,1,0,3,12]))
