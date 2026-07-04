@@ -20,4 +20,4 @@ def pattern20(n):
         print()
         spaces1+=2
     
-pattern20(5)
+pattern20(4)
