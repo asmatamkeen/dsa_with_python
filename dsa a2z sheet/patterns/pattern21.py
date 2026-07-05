@@ -1,0 +1,5 @@
+def pattern21(n):
+    for i in range(n):
+        if i==0 or i==n-1:
+            print('*')
+pattern21(5)
